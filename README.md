@@ -12,8 +12,8 @@ repository to store abstracts about Git and GitHub from Microsoft Course
 
 | Classes | Abstracts |
 |---------|-----------|
-| Recording changes on Local Repository | [Abstract]
-() |
+| Class 01 | [Abstract]() |
+| Class 02 | [Abstract]() |
 ---
 git Init 
 ---
